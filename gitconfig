@@ -59,6 +59,7 @@
 
 [init]
   defaultBranch = master
+
 [user]
-	email = bian14r@gmail.com
+	email = bian14r.tech@gmail.com
 	name = Roger Bian
