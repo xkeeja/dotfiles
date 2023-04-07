@@ -59,6 +59,13 @@
 
 [init]
   defaultBranch = master
+
 [user]
-	email = bian14r@gmail.com
+	email = 113004083+xkeeja@users.noreply.github.com
 	name = Roger Bian
+
+[filter "lfs"]
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
