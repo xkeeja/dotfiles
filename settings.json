@@ -24,7 +24,7 @@
         "terminal.ansiCyan":"#b994f1",
         "terminal.ansiBrightCyan":"#bf9ef0",
         "terminal.ansiWhite":"#eeffff",
-        "terminal.ansiBrightWhite":"#edf7f7",
+        "terminal.ansiBrightWhite":"#edf7f7"
     },
     "notebook.output.wordWrap": true,
     "extensions.ignoreRecommendations": true,
